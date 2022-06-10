@@ -1,5 +1,4 @@
-# cherrystore
-
-      - A list of item price in the store.
-      - using nodejs, express, mongo atlas and deploy in heroku
-      - A RESTFUL API manipulaion - GET, POST, PATCH and DELETE
+angularJS web https://cherrystore.onrender.com/
+angularJS code https://github.com/junjiebalatero/pricelistimage.git
+api web https://cherrystore.herokuapp.com/api/posts
+api code https://github.com/junjiebalatero/cherrystore
